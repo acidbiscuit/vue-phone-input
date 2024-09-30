@@ -2,7 +2,7 @@
 import PhoneInput from '@/components/PhoneInput/PhoneInput.vue'
 import { ref } from 'vue'
 
-const phoneNumber = ref('+1(253) 584-0899')
+const phoneNumber = ref('')
 </script>
 
 <template>
